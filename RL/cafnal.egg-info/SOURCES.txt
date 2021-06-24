@@ -1,0 +1,7 @@
+README.md
+setup.py
+cafnal.egg-info/PKG-INFO
+cafnal.egg-info/SOURCES.txt
+cafnal.egg-info/dependency_links.txt
+cafnal.egg-info/requires.txt
+cafnal.egg-info/top_level.txt

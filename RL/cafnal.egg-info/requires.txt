@@ -1,0 +1,10 @@
+gym
+keras
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+scipy
+tqdm
+jupyter
